@@ -2,3 +2,4 @@ This profile contains details about securities investment.
 Description of different securities provided.
 Information about Securities is to be added.
 Details will be added.
+This is to check merge conflicts. This line is written by Yash.
